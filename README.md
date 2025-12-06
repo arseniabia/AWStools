@@ -1,14 +1,14 @@
 # AWStools
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-Data: [data de inÃ­cio do projeto]
+Data: 06/12/2025
 Empresa: Abstergo Industries 
-ResponsÃ¡vel: [nome do responsÃ¡vel pelo projeto]
+Responsável pelo projeto: Bianca Arsenia
 
 Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Bianca Arsenia. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
 
 ## Descrição do Projeto
-O projeto de implementaÃ§Ã£o de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos especÃ­ficos. A seguir, serÃ£o descritas as etapas do projeto:
+O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
 
 Etapa 1: 
 - AWS Cost Explorer
